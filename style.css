@@ -11,6 +11,9 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
 }
+#transaction-area{
+    display: none;
+}
 .status{
     margin:0 20px;
     color: white;
@@ -18,3 +21,13 @@ body{
     border-radius:10px;
 }
 
+ .deposite{
+     background-color: steelblue; 
+
+ }
+ .withdraw{
+     background-color: lightsalmon;
+ }
+ .balance{
+     background-color: orange;
+ }
